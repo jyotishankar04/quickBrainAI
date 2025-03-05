@@ -1,0 +1,7 @@
+node_modules
+
+# Directories
+build
+dist
+# remove node modules recursively
+**/node_modules
