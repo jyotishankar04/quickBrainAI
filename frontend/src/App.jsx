@@ -6,6 +6,7 @@ const App = () => {
         <p className="text-xl text-gray-900/500">
           An AI powered note taking app
         </p>
+        <p className="text-2xl ">Testting the collaboration feature AI</p>
       </div>
     </div>
   );
